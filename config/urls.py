@@ -26,3 +26,5 @@ urlpatterns = [
 
 
 ]
+
+handler404 = 'common.views.page_not_found'
